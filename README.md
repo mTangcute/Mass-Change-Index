@@ -1,2 +1,2 @@
 # Mass-Change-Index
-MATLAB code for generating the Mass change index
+MATLAB script for generating the Mass change index
